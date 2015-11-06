@@ -81,3 +81,12 @@ body {
     border-bottom: 0;
   }
 }
+
+.marginLeft {
+  margin-left: 5%;
+}
+
+.disabled {
+    opacity: 0.4;
+    pointer-events: none;
+}

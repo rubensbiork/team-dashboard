@@ -2,6 +2,9 @@
 
 It creates charts dinamically for football teams.
 
-# Build & development
+# How to run it
 Run `npm install && bower install`.
-Then `grunt` for building and `grunt serve` for preview.
+Run `grunt` for building dist version and then `grunt serve` for preview.
+
+# Screenshot
+![Image](../master/screenShot.jpg?raw=true)
