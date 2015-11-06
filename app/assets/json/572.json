@@ -1,0 +1,1935 @@
+{
+    "status": "leicester",
+    "code": 0,
+    "data": {
+        "stats": {
+            "goals": "23",
+            "goalsPerGame": "2.1",
+            "goalsConceded": "19",
+            "goalsConcededPerGame": "1.7",
+            "ballPossession": "43",
+            "duelsWon": "702",
+            "passingAccuracy": "71.32",
+            "yellowCards": "23",
+            "redCards": "0",
+            "redCardsSecondYellow": "0",
+            "cleanSheets": "1",
+            "tackles": "257",
+            "tacklesWon": "193",
+            "duels": "1424",
+            "aerialDuelsWon": "216",
+            "clearances": "277",
+            "blocks": "45",
+            "interceptions": "236",
+            "totalPasses": "3696",
+            "totalCrossesOpenPlay": "197",
+            "crossAccuracyOpenPlay": "20.3",
+            "goalsFromInsideBox": "23",
+            "goalsFromOutsideBox": "0",
+            "goalsFromSetPieces": "0",
+            "headedGoals": "5",
+            "penalties": "4",
+            "penaltiesSuccessful": "100.0",
+            "totalShots": "122",
+            "shotingAccuracy": "45.08",
+            "offsides": "9",
+            "foulsConceded": "112",
+            "foulsWon": "111",
+            "penaltiesConceded": "1",
+            "played": 11,
+            "won": 6,
+            "lost": 1,
+            "drawn": 4
+        },
+        "games": [{
+            "resultStatus": "win",
+            "id": 432695,
+            "scoreaway": "2",
+            "scorehome": "4",
+            "status": "FullTime",
+            "competitionId": 9,
+            "seasonId": 1231,
+            "stadiumId": 499,
+            "matchdayId": 5662168,
+            "matchday": {
+                "id": 5662168,
+                "name": "Matchday 1"
+            },
+            "kickoff": "2015-08-08T14:00:00Z",
+            "teamhome": {
+                "optaId": 13,
+                "id": 572,
+                "name": "Leicester City"
+            },
+            "teamaway": {
+                "optaId": 56,
+                "id": 208,
+                "name": "Sunderland"
+            }
+        }, {
+            "resultStatus": "win",
+            "id": 432710,
+            "scoreaway": "2",
+            "scorehome": "1",
+            "status": "FullTime",
+            "competitionId": 9,
+            "seasonId": 1231,
+            "stadiumId": 161,
+            "matchdayId": 5662169,
+            "matchday": {
+                "id": 5662169,
+                "name": "Matchday 2"
+            },
+            "kickoff": "2015-08-15T14:00:00Z",
+            "teamhome": {
+                "optaId": 21,
+                "id": 198,
+                "name": "West Ham"
+            },
+            "teamaway": {
+                "optaId": 13,
+                "id": 572,
+                "name": "Leicester City"
+            }
+        }, {
+            "resultStatus": "draw",
+            "id": 432714,
+            "scoreaway": "1",
+            "scorehome": "1",
+            "status": "FullTime",
+            "competitionId": 9,
+            "seasonId": 1231,
+            "stadiumId": 499,
+            "matchdayId": 5662170,
+            "matchday": {
+                "id": 5662170,
+                "name": "Matchday 3"
+            },
+            "kickoff": "2015-08-22T14:00:00Z",
+            "teamhome": {
+                "optaId": 13,
+                "id": 572,
+                "name": "Leicester City"
+            },
+            "teamaway": {
+                "optaId": 6,
+                "id": 202,
+                "name": "Tottenham"
+            }
+        }, {
+            "resultStatus": "draw",
+            "id": 432722,
+            "scoreaway": "1",
+            "scorehome": "1",
+            "status": "FullTime",
+            "competitionId": 9,
+            "seasonId": 1231,
+            "stadiumId": 599,
+            "matchdayId": 5662171,
+            "matchday": {
+                "id": 5662171,
+                "name": "Matchday 4"
+            },
+            "kickoff": "2015-08-29T14:00:00Z",
+            "teamhome": {
+                "optaId": 91,
+                "id": 622,
+                "name": "Bournemouth"
+            },
+            "teamaway": {
+                "optaId": 13,
+                "id": 572,
+                "name": "Leicester City"
+            }
+        }, {
+            "resultStatus": "win",
+            "id": 432734,
+            "scoreaway": "2",
+            "scorehome": "3",
+            "status": "FullTime",
+            "competitionId": 9,
+            "seasonId": 1231,
+            "stadiumId": 499,
+            "matchdayId": 5662172,
+            "matchday": {
+                "id": 5662172,
+                "name": "Matchday 5"
+            },
+            "kickoff": "2015-09-13T15:00:00Z",
+            "teamhome": {
+                "optaId": 13,
+                "id": 572,
+                "name": "Leicester City"
+            },
+            "teamaway": {
+                "optaId": 7,
+                "id": 199,
+                "name": "Aston Villa"
+            }
+        }, {
+            "resultStatus": "draw",
+            "id": 432748,
+            "scoreaway": "2",
+            "scorehome": "2",
+            "status": "FullTime",
+            "competitionId": 9,
+            "seasonId": 1231,
+            "stadiumId": 155,
+            "matchdayId": 5662173,
+            "matchday": {
+                "id": 5662173,
+                "name": "Matchday 6"
+            },
+            "kickoff": "2015-09-19T14:00:00Z",
+            "teamhome": {
+                "optaId": 110,
+                "id": 201,
+                "name": "Stoke City"
+            },
+            "teamaway": {
+                "optaId": 13,
+                "id": 572,
+                "name": "Leicester City"
+            }
+        }, {
+            "resultStatus": "defeat",
+            "id": 432751,
+            "scoreaway": "5",
+            "scorehome": "2",
+            "status": "FullTime",
+            "competitionId": 9,
+            "seasonId": 1231,
+            "stadiumId": 499,
+            "matchdayId": 5662174,
+            "matchday": {
+                "id": 5662174,
+                "name": "Matchday 7"
+            },
+            "kickoff": "2015-09-26T14:00:00Z",
+            "teamhome": {
+                "optaId": 13,
+                "id": 572,
+                "name": "Leicester City"
+            },
+            "teamaway": {
+                "optaId": 3,
+                "id": 2,
+                "name": "Arsenal"
+            }
+        }, {
+            "resultStatus": "win",
+            "id": 432768,
+            "scoreaway": "2",
+            "scorehome": "1",
+            "status": "FullTime",
+            "competitionId": 9,
+            "seasonId": 1231,
+            "stadiumId": 508,
+            "matchdayId": 5662175,
+            "matchday": {
+                "id": 5662175,
+                "name": "Matchday 8"
+            },
+            "kickoff": "2015-10-03T14:00:00Z",
+            "teamhome": {
+                "optaId": 45,
+                "id": 575,
+                "name": "Norwich City"
+            },
+            "teamaway": {
+                "optaId": 13,
+                "id": 572,
+                "name": "Leicester City"
+            }
+        }, {
+            "resultStatus": "draw",
+            "id": 432776,
+            "scoreaway": "2",
+            "scorehome": "2",
+            "status": "FullTime",
+            "competitionId": 9,
+            "seasonId": 1231,
+            "stadiumId": 577,
+            "matchdayId": 5662176,
+            "matchday": {
+                "id": 5662176,
+                "name": "Matchday 9"
+            },
+            "kickoff": "2015-10-17T14:00:00Z",
+            "teamhome": {
+                "optaId": 20,
+                "id": 615,
+                "name": "Southampton"
+            },
+            "teamaway": {
+                "optaId": 13,
+                "id": 572,
+                "name": "Leicester City"
+            }
+        }, {
+            "resultStatus": "win",
+            "id": 432784,
+            "scoreaway": "0",
+            "scorehome": "1",
+            "status": "FullTime",
+            "competitionId": 9,
+            "seasonId": 1231,
+            "stadiumId": 499,
+            "matchdayId": 5662177,
+            "matchday": {
+                "id": 5662177,
+                "name": "Matchday 10"
+            },
+            "kickoff": "2015-10-24T14:00:00Z",
+            "teamhome": {
+                "optaId": 13,
+                "id": 572,
+                "name": "Leicester City"
+            },
+            "teamaway": {
+                "optaId": 31,
+                "id": 567,
+                "name": "Crystal Palace"
+            }
+        }, {
+            "resultStatus": "win",
+            "id": 432800,
+            "scoreaway": "3",
+            "scorehome": "2",
+            "status": "FullTime",
+            "competitionId": 9,
+            "seasonId": 1231,
+            "stadiumId": 158,
+            "matchdayId": 5662178,
+            "matchday": {
+                "id": 5662178,
+                "name": "Matchday 11"
+            },
+            "kickoff": "2015-10-31T15:00:00Z",
+            "teamhome": {
+                "optaId": 35,
+                "id": 196,
+                "name": "West Brom"
+            },
+            "teamaway": {
+                "optaId": 13,
+                "id": 572,
+                "name": "Leicester City"
+            }
+        }, {
+            "resultStatus": "n.a",
+            "id": 432804,
+            "scoreaway": "0",
+            "scorehome": "0",
+            "status": "PreMatch",
+            "competitionId": 9,
+            "seasonId": 1231,
+            "stadiumId": 499,
+            "matchdayId": 5662179,
+            "matchday": {
+                "id": 5662179,
+                "name": "Matchday 12"
+            },
+            "kickoff": "2015-11-07T15:00:00Z",
+            "teamhome": {
+                "optaId": 13,
+                "id": 572,
+                "name": "Leicester City"
+            },
+            "teamaway": {
+                "optaId": 57,
+                "id": 580,
+                "name": "Watford"
+            }
+        }, {
+            "resultStatus": "n.a",
+            "id": 432815,
+            "scoreaway": "0",
+            "scorehome": "0",
+            "status": "PreMatch",
+            "competitionId": 9,
+            "seasonId": 1231,
+            "stadiumId": 164,
+            "matchdayId": 5662180,
+            "matchday": {
+                "id": 5662180,
+                "name": "Matchday 13"
+            },
+            "kickoff": "2015-11-21T15:00:00Z",
+            "teamhome": {
+                "optaId": 4,
+                "id": 207,
+                "name": "Newcastle"
+            },
+            "teamaway": {
+                "optaId": 13,
+                "id": 572,
+                "name": "Leicester City"
+            }
+        }, {
+            "resultStatus": "n.a",
+            "id": 432824,
+            "scoreaway": "0",
+            "scorehome": "0",
+            "status": "PreMatch",
+            "competitionId": 9,
+            "seasonId": 1231,
+            "stadiumId": 499,
+            "matchdayId": 5662181,
+            "matchday": {
+                "id": 5662181,
+                "name": "Matchday 14"
+            },
+            "kickoff": "2015-11-28T17:30:00Z",
+            "teamhome": {
+                "optaId": 13,
+                "id": 572,
+                "name": "Leicester City"
+            },
+            "teamaway": {
+                "optaId": 1,
+                "id": 21,
+                "name": "Manchester Utd"
+            }
+        }, {
+            "resultStatus": "n.a",
+            "id": 432838,
+            "scoreaway": "0",
+            "scorehome": "0",
+            "status": "PreMatch",
+            "competitionId": 9,
+            "seasonId": 1231,
+            "stadiumId": 503,
+            "matchdayId": 5662182,
+            "matchday": {
+                "id": 5662182,
+                "name": "Matchday 15"
+            },
+            "kickoff": "2015-12-05T15:00:00Z",
+            "teamhome": {
+                "optaId": 80,
+                "id": 576,
+                "name": "Swansea City"
+            },
+            "teamaway": {
+                "optaId": 13,
+                "id": 572,
+                "name": "Leicester City"
+            }
+        }, {
+            "resultStatus": "n.a",
+            "id": 432844,
+            "scoreaway": "0",
+            "scorehome": "0",
+            "status": "PreMatch",
+            "competitionId": 9,
+            "seasonId": 1231,
+            "stadiumId": 499,
+            "matchdayId": 5662183,
+            "matchday": {
+                "id": 5662183,
+                "name": "Matchday 16"
+            },
+            "kickoff": "2015-12-14T20:00:00Z",
+            "teamhome": {
+                "optaId": 13,
+                "id": 572,
+                "name": "Leicester City"
+            },
+            "teamaway": {
+                "optaId": 8,
+                "id": 9,
+                "name": "Chelsea"
+            }
+        }, {
+            "resultStatus": "n.a",
+            "id": 432853,
+            "scoreaway": "0",
+            "scorehome": "0",
+            "status": "PreMatch",
+            "competitionId": 9,
+            "seasonId": 1231,
+            "stadiumId": 159,
+            "matchdayId": 5662184,
+            "matchday": {
+                "id": 5662184,
+                "name": "Matchday 17"
+            },
+            "kickoff": "2015-12-19T15:00:00Z",
+            "teamhome": {
+                "optaId": 11,
+                "id": 197,
+                "name": "Everton"
+            },
+            "teamaway": {
+                "optaId": 13,
+                "id": 572,
+                "name": "Leicester City"
+            }
+        }, {
+            "resultStatus": "n.a",
+            "id": 432864,
+            "scoreaway": "0",
+            "scorehome": "0",
+            "status": "PreMatch",
+            "competitionId": 9,
+            "seasonId": 1231,
+            "stadiumId": 4,
+            "matchdayId": 5662185,
+            "matchday": {
+                "id": 5662185,
+                "name": "Matchday 18"
+            },
+            "kickoff": "2015-12-26T15:00:00Z",
+            "teamhome": {
+                "optaId": 14,
+                "id": 18,
+                "name": "Liverpool"
+            },
+            "teamaway": {
+                "optaId": 13,
+                "id": 572,
+                "name": "Leicester City"
+            }
+        }, {
+            "resultStatus": "n.a",
+            "id": 432874,
+            "scoreaway": "0",
+            "scorehome": "0",
+            "status": "PreMatch",
+            "competitionId": 9,
+            "seasonId": 1231,
+            "stadiumId": 499,
+            "matchdayId": 5662186,
+            "matchday": {
+                "id": 5662186,
+                "name": "Matchday 19"
+            },
+            "kickoff": "2015-12-29T19:45:00Z",
+            "teamhome": {
+                "optaId": 13,
+                "id": 572,
+                "name": "Leicester City"
+            },
+            "teamaway": {
+                "optaId": 43,
+                "id": 209,
+                "name": "Manchester City"
+            }
+        }, {
+            "resultStatus": "n.a",
+            "id": 432884,
+            "scoreaway": "0",
+            "scorehome": "0",
+            "status": "PreMatch",
+            "competitionId": 9,
+            "seasonId": 1231,
+            "stadiumId": 499,
+            "matchdayId": 5662187,
+            "matchday": {
+                "id": 5662187,
+                "name": "Matchday 20"
+            },
+            "kickoff": "2016-01-02T15:00:00Z",
+            "teamhome": {
+                "optaId": 13,
+                "id": 572,
+                "name": "Leicester City"
+            },
+            "teamaway": {
+                "optaId": 91,
+                "id": 622,
+                "name": "Bournemouth"
+            }
+        }, {
+            "resultStatus": "n.a",
+            "id": 432900,
+            "scoreaway": "0",
+            "scorehome": "0",
+            "status": "PreMatch",
+            "competitionId": 9,
+            "seasonId": 1231,
+            "stadiumId": 165,
+            "matchdayId": 5662188,
+            "matchday": {
+                "id": 5662188,
+                "name": "Matchday 21"
+            },
+            "kickoff": "2016-01-13T20:00:00Z",
+            "teamhome": {
+                "optaId": 6,
+                "id": 202,
+                "name": "Tottenham"
+            },
+            "teamaway": {
+                "optaId": 13,
+                "id": 572,
+                "name": "Leicester City"
+            }
+        }, {
+            "resultStatus": "n.a",
+            "id": 432901,
+            "scoreaway": "0",
+            "scorehome": "0",
+            "status": "PreMatch",
+            "competitionId": 9,
+            "seasonId": 1231,
+            "stadiumId": 153,
+            "matchdayId": 5662189,
+            "matchday": {
+                "id": 5662189,
+                "name": "Matchday 22"
+            },
+            "kickoff": "2016-01-16T15:00:00Z",
+            "teamhome": {
+                "optaId": 7,
+                "id": 199,
+                "name": "Aston Villa"
+            },
+            "teamaway": {
+                "optaId": 13,
+                "id": 572,
+                "name": "Leicester City"
+            }
+        }, {
+            "resultStatus": "n.a",
+            "id": 432914,
+            "scoreaway": "0",
+            "scorehome": "0",
+            "status": "PreMatch",
+            "competitionId": 9,
+            "seasonId": 1231,
+            "stadiumId": 499,
+            "matchdayId": 5662190,
+            "matchday": {
+                "id": 5662190,
+                "name": "Matchday 23"
+            },
+            "kickoff": "2016-01-23T15:00:00Z",
+            "teamhome": {
+                "optaId": 13,
+                "id": 572,
+                "name": "Leicester City"
+            },
+            "teamaway": {
+                "optaId": 110,
+                "id": 201,
+                "name": "Stoke City"
+            }
+        }, {
+            "resultStatus": "n.a",
+            "id": 432923,
+            "scoreaway": "0",
+            "scorehome": "0",
+            "status": "PreMatch",
+            "competitionId": 9,
+            "seasonId": 1231,
+            "stadiumId": 499,
+            "matchdayId": 5662191,
+            "matchday": {
+                "id": 5662191,
+                "name": "Matchday 24"
+            },
+            "kickoff": "2016-02-02T19:45:00Z",
+            "teamhome": {
+                "optaId": 13,
+                "id": 572,
+                "name": "Leicester City"
+            },
+            "teamaway": {
+                "optaId": 14,
+                "id": 18,
+                "name": "Liverpool"
+            }
+        }, {
+            "resultStatus": "n.a",
+            "id": 432935,
+            "scoreaway": "0",
+            "scorehome": "0",
+            "status": "PreMatch",
+            "competitionId": 9,
+            "seasonId": 1231,
+            "stadiumId": 150,
+            "matchdayId": 5662192,
+            "matchday": {
+                "id": 5662192,
+                "name": "Matchday 25"
+            },
+            "kickoff": "2016-02-06T15:00:00Z",
+            "teamhome": {
+                "optaId": 43,
+                "id": 209,
+                "name": "Manchester City"
+            },
+            "teamaway": {
+                "optaId": 13,
+                "id": 572,
+                "name": "Leicester City"
+            }
+        }, {
+            "resultStatus": "n.a",
+            "id": 432941,
+            "scoreaway": "0",
+            "scorehome": "0",
+            "status": "PreMatch",
+            "competitionId": 9,
+            "seasonId": 1231,
+            "stadiumId": 30,
+            "matchdayId": 5662193,
+            "matchday": {
+                "id": 5662193,
+                "name": "Matchday 26"
+            },
+            "kickoff": "2016-02-13T15:00:00Z",
+            "teamhome": {
+                "optaId": 3,
+                "id": 2,
+                "name": "Arsenal"
+            },
+            "teamaway": {
+                "optaId": 13,
+                "id": 572,
+                "name": "Leicester City"
+            }
+        }, {
+            "resultStatus": "n.a",
+            "id": 432951,
+            "scoreaway": "0",
+            "scorehome": "0",
+            "status": "PreMatch",
+            "competitionId": 9,
+            "seasonId": 1231,
+            "stadiumId": 499,
+            "matchdayId": 5662194,
+            "matchday": {
+                "id": 5662194,
+                "name": "Matchday 27"
+            },
+            "kickoff": "2016-02-27T15:00:00Z",
+            "teamhome": {
+                "optaId": 13,
+                "id": 572,
+                "name": "Leicester City"
+            },
+            "teamaway": {
+                "optaId": 45,
+                "id": 575,
+                "name": "Norwich City"
+            }
+        }, {
+            "resultStatus": "n.a",
+            "id": 432964,
+            "scoreaway": "0",
+            "scorehome": "0",
+            "status": "PreMatch",
+            "competitionId": 9,
+            "seasonId": 1231,
+            "stadiumId": 499,
+            "matchdayId": 5662195,
+            "matchday": {
+                "id": 5662195,
+                "name": "Matchday 28"
+            },
+            "kickoff": "2016-03-01T19:45:00Z",
+            "teamhome": {
+                "optaId": 13,
+                "id": 572,
+                "name": "Leicester City"
+            },
+            "teamaway": {
+                "optaId": 35,
+                "id": 196,
+                "name": "West Brom"
+            }
+        }, {
+            "resultStatus": "n.a",
+            "id": 432979,
+            "scoreaway": "0",
+            "scorehome": "0",
+            "status": "PreMatch",
+            "competitionId": 9,
+            "seasonId": 1231,
+            "stadiumId": 504,
+            "matchdayId": 5662196,
+            "matchday": {
+                "id": 5662196,
+                "name": "Matchday 29"
+            },
+            "kickoff": "2016-03-05T15:00:00Z",
+            "teamhome": {
+                "optaId": 57,
+                "id": 580,
+                "name": "Watford"
+            },
+            "teamaway": {
+                "optaId": 13,
+                "id": 572,
+                "name": "Leicester City"
+            }
+        }, {
+            "resultStatus": "n.a",
+            "id": 432984,
+            "scoreaway": "0",
+            "scorehome": "0",
+            "status": "PreMatch",
+            "competitionId": 9,
+            "seasonId": 1231,
+            "stadiumId": 499,
+            "matchdayId": 5662197,
+            "matchday": {
+                "id": 5662197,
+                "name": "Matchday 30"
+            },
+            "kickoff": "2016-03-12T15:00:00Z",
+            "teamhome": {
+                "optaId": 13,
+                "id": 572,
+                "name": "Leicester City"
+            },
+            "teamaway": {
+                "optaId": 4,
+                "id": 207,
+                "name": "Newcastle"
+            }
+        }, {
+            "resultStatus": "n.a",
+            "id": 432992,
+            "scoreaway": "0",
+            "scorehome": "0",
+            "status": "PreMatch",
+            "competitionId": 9,
+            "seasonId": 1231,
+            "stadiumId": 494,
+            "matchdayId": 5662198,
+            "matchday": {
+                "id": 5662198,
+                "name": "Matchday 31"
+            },
+            "kickoff": "2016-03-19T15:00:00Z",
+            "teamhome": {
+                "optaId": 31,
+                "id": 567,
+                "name": "Crystal Palace"
+            },
+            "teamaway": {
+                "optaId": 13,
+                "id": 572,
+                "name": "Leicester City"
+            }
+        }, {
+            "resultStatus": "n.a",
+            "id": 433004,
+            "scoreaway": "0",
+            "scorehome": "0",
+            "status": "PreMatch",
+            "competitionId": 9,
+            "seasonId": 1231,
+            "stadiumId": 499,
+            "matchdayId": 5662199,
+            "matchday": {
+                "id": 5662199,
+                "name": "Matchday 32"
+            },
+            "kickoff": "2016-04-02T14:00:00Z",
+            "teamhome": {
+                "optaId": 13,
+                "id": 572,
+                "name": "Leicester City"
+            },
+            "teamaway": {
+                "optaId": 20,
+                "id": 615,
+                "name": "Southampton"
+            }
+        }, {
+            "resultStatus": "n.a",
+            "id": 433016,
+            "scoreaway": "0",
+            "scorehome": "0",
+            "status": "PreMatch",
+            "competitionId": 9,
+            "seasonId": 1231,
+            "stadiumId": 162,
+            "matchdayId": 5662200,
+            "matchday": {
+                "id": 5662200,
+                "name": "Matchday 33"
+            },
+            "kickoff": "2016-04-09T14:00:00Z",
+            "teamhome": {
+                "optaId": 56,
+                "id": 208,
+                "name": "Sunderland"
+            },
+            "teamaway": {
+                "optaId": 13,
+                "id": 572,
+                "name": "Leicester City"
+            }
+        }, {
+            "resultStatus": "n.a",
+            "id": 433025,
+            "scoreaway": "0",
+            "scorehome": "0",
+            "status": "PreMatch",
+            "competitionId": 9,
+            "seasonId": 1231,
+            "stadiumId": 499,
+            "matchdayId": 5662201,
+            "matchday": {
+                "id": 5662201,
+                "name": "Matchday 34"
+            },
+            "kickoff": "2016-04-16T14:00:00Z",
+            "teamhome": {
+                "optaId": 13,
+                "id": 572,
+                "name": "Leicester City"
+            },
+            "teamaway": {
+                "optaId": 21,
+                "id": 198,
+                "name": "West Ham"
+            }
+        }, {
+            "resultStatus": "n.a",
+            "id": 433034,
+            "scoreaway": "0",
+            "scorehome": "0",
+            "status": "PreMatch",
+            "competitionId": 9,
+            "seasonId": 1231,
+            "stadiumId": 499,
+            "matchdayId": 5662202,
+            "matchday": {
+                "id": 5662202,
+                "name": "Matchday 35"
+            },
+            "kickoff": "2016-04-23T14:00:00Z",
+            "teamhome": {
+                "optaId": 13,
+                "id": 572,
+                "name": "Leicester City"
+            },
+            "teamaway": {
+                "optaId": 80,
+                "id": 576,
+                "name": "Swansea City"
+            }
+        }, {
+            "resultStatus": "n.a",
+            "id": 433044,
+            "scoreaway": "0",
+            "scorehome": "0",
+            "status": "PreMatch",
+            "competitionId": 9,
+            "seasonId": 1231,
+            "stadiumId": 26,
+            "matchdayId": 5662203,
+            "matchday": {
+                "id": 5662203,
+                "name": "Matchday 36"
+            },
+            "kickoff": "2016-04-30T14:00:00Z",
+            "teamhome": {
+                "optaId": 1,
+                "id": 21,
+                "name": "Manchester Utd"
+            },
+            "teamaway": {
+                "optaId": 13,
+                "id": 572,
+                "name": "Leicester City"
+            }
+        }, {
+            "resultStatus": "n.a",
+            "id": 433054,
+            "scoreaway": "0",
+            "scorehome": "0",
+            "status": "PreMatch",
+            "competitionId": 9,
+            "seasonId": 1231,
+            "stadiumId": 499,
+            "matchdayId": 5662204,
+            "matchday": {
+                "id": 5662204,
+                "name": "Matchday 37"
+            },
+            "kickoff": "2016-05-07T14:00:00Z",
+            "teamhome": {
+                "optaId": 13,
+                "id": 572,
+                "name": "Leicester City"
+            },
+            "teamaway": {
+                "optaId": 11,
+                "id": 197,
+                "name": "Everton"
+            }
+        }, {
+            "resultStatus": "n.a",
+            "id": 433062,
+            "scoreaway": "0",
+            "scorehome": "0",
+            "status": "PreMatch",
+            "competitionId": 9,
+            "seasonId": 1231,
+            "stadiumId": 25,
+            "matchdayId": 5662205,
+            "matchday": {
+                "id": 5662205,
+                "name": "Matchday 38"
+            },
+            "kickoff": "2016-05-15T14:00:00Z",
+            "teamhome": {
+                "optaId": 8,
+                "id": 9,
+                "name": "Chelsea"
+            },
+            "teamaway": {
+                "optaId": 13,
+                "id": 572,
+                "name": "Leicester City"
+            }
+        }],
+        "groups": [{
+            "groupName": "",
+            "ranking": [{
+                "index": 1,
+                "indexOld": 1,
+                "indexHome": 1,
+                "indexAway": 4,
+                "indexChange": "",
+                "type": 1,
+                "team": {
+                    "id": "209",
+                    "optaId": "43",
+                    "name": "Manchester City",
+                    "teamStats": {
+                        "played": 11,
+                        "playedHome": 6,
+                        "playedAway": 5,
+                        "diff": 17,
+                        "diffHome": 14,
+                        "diffAway": 3,
+                        "goalsShot": 26,
+                        "goalsShotHome": 19,
+                        "goalsShotAway": 7,
+                        "goalsGot": 9,
+                        "goalsGotHome": 5,
+                        "goalsGotAway": 4,
+                        "points": 25,
+                        "pointsHome": 15,
+                        "pointsAway": 10,
+                        "won": 8,
+                        "wonHome": 5,
+                        "wonAway": 3,
+                        "drawn": 1,
+                        "drawnHome": 0,
+                        "drawnAway": 1,
+                        "lost": 2,
+                        "lostHome": 1,
+                        "lostAway": 1,
+                        "yellowCards": 23,
+                        "redCards": 0,
+                        "topScorer": {
+                            "id": "78",
+                            "stat": "6",
+                            "ranking": "4",
+                            "name": "Sergio Ag\u00fcero",
+                            "imageSrc": "https:\/\/images.onefootball.com\/players\/78.jpg"
+                        }
+                    }
+                }
+            }, {
+                "index": 2,
+                "indexOld": 2,
+                "indexHome": 3,
+                "indexAway": 1,
+                "indexChange": "",
+                "type": 1,
+                "team": {
+                    "id": "2",
+                    "optaId": "3",
+                    "name": "Arsenal",
+                    "teamStats": {
+                        "played": 11,
+                        "playedHome": 5,
+                        "playedAway": 6,
+                        "diff": 13,
+                        "diffHome": 4,
+                        "diffAway": 9,
+                        "goalsShot": 21,
+                        "goalsShotHome": 7,
+                        "goalsShotAway": 14,
+                        "goalsGot": 8,
+                        "goalsGotHome": 3,
+                        "goalsGotAway": 5,
+                        "points": 25,
+                        "pointsHome": 10,
+                        "pointsAway": 15,
+                        "won": 8,
+                        "wonHome": 3,
+                        "wonAway": 5,
+                        "drawn": 1,
+                        "drawnHome": 1,
+                        "drawnAway": 0,
+                        "lost": 2,
+                        "lostHome": 1,
+                        "lostAway": 1,
+                        "yellowCards": 23,
+                        "redCards": 0,
+                        "topScorer": {
+                            "id": "4959",
+                            "stat": "6",
+                            "ranking": "5",
+                            "name": "Olivier Giroud",
+                            "imageSrc": "https:\/\/images.onefootball.com\/players\/4959.jpg"
+                        }
+                    }
+                }
+            }, {
+                "index": 3,
+                "indexOld": 5,
+                "indexHome": 5,
+                "indexAway": 3,
+                "indexChange": "up",
+                "type": 1,
+                "team": {
+                    "id": "572",
+                    "optaId": "13",
+                    "name": "Leicester City",
+                    "teamStats": {
+                        "played": 11,
+                        "playedHome": 5,
+                        "playedAway": 6,
+                        "diff": 4,
+                        "diffHome": 1,
+                        "diffAway": 3,
+                        "goalsShot": 23,
+                        "goalsShotHome": 11,
+                        "goalsShotAway": 12,
+                        "goalsGot": 19,
+                        "goalsGotHome": 10,
+                        "goalsGotAway": 9,
+                        "points": 22,
+                        "pointsHome": 10,
+                        "pointsAway": 12,
+                        "won": 6,
+                        "wonHome": 3,
+                        "wonAway": 3,
+                        "drawn": 4,
+                        "drawnHome": 1,
+                        "drawnAway": 3,
+                        "lost": 1,
+                        "lostHome": 1,
+                        "lostAway": 0,
+                        "yellowCards": 23,
+                        "redCards": 0,
+                        "topScorer": {
+                            "id": "29360",
+                            "stat": "11",
+                            "ranking": "1",
+                            "name": "Jamie Vardy",
+                            "imageSrc": "https:\/\/images.onefootball.com\/players\/29360.jpg"
+                        }
+                    }
+                }
+            }, {
+                "index": 4,
+                "indexOld": 4,
+                "indexHome": 2,
+                "indexAway": 5,
+                "indexChange": "",
+                "type": 2,
+                "team": {
+                    "id": "21",
+                    "optaId": "1",
+                    "name": "Manchester Utd",
+                    "teamStats": {
+                        "played": 11,
+                        "playedHome": 5,
+                        "playedAway": 6,
+                        "diff": 7,
+                        "diffHome": 6,
+                        "diffAway": 1,
+                        "goalsShot": 15,
+                        "goalsShotHome": 7,
+                        "goalsShotAway": 8,
+                        "goalsGot": 8,
+                        "goalsGotHome": 1,
+                        "goalsGotAway": 7,
+                        "points": 21,
+                        "pointsHome": 11,
+                        "pointsAway": 10,
+                        "won": 6,
+                        "wonHome": 3,
+                        "wonAway": 3,
+                        "drawn": 3,
+                        "drawnHome": 2,
+                        "drawnAway": 1,
+                        "lost": 2,
+                        "lostHome": 0,
+                        "lostAway": 2,
+                        "yellowCards": 23,
+                        "redCards": 0,
+                        "topScorer": {
+                            "id": "39728",
+                            "stat": "3",
+                            "ranking": "30",
+                            "name": "Anthony Martial",
+                            "imageSrc": "https:\/\/images.onefootball.com\/players\/39728.jpg"
+                        }
+                    }
+                }
+            }, {
+                "index": 5,
+                "indexOld": 3,
+                "indexHome": 11,
+                "indexAway": 2,
+                "indexChange": "down",
+                "type": 3,
+                "team": {
+                    "id": "198",
+                    "optaId": "21",
+                    "name": "West Ham",
+                    "teamStats": {
+                        "played": 11,
+                        "playedHome": 5,
+                        "playedAway": 6,
+                        "diff": 7,
+                        "diffHome": 1,
+                        "diffAway": 6,
+                        "goalsShot": 22,
+                        "goalsShotHome": 10,
+                        "goalsShotAway": 12,
+                        "goalsGot": 15,
+                        "goalsGotHome": 9,
+                        "goalsGotAway": 6,
+                        "points": 20,
+                        "pointsHome": 7,
+                        "pointsAway": 13,
+                        "won": 6,
+                        "wonHome": 2,
+                        "wonAway": 4,
+                        "drawn": 2,
+                        "drawnHome": 1,
+                        "drawnAway": 1,
+                        "lost": 3,
+                        "lostHome": 2,
+                        "lostAway": 1,
+                        "yellowCards": 23,
+                        "redCards": 0,
+                        "topScorer": {
+                            "id": "5099",
+                            "stat": "5",
+                            "ranking": "12",
+                            "name": "Dimitri Payet",
+                            "imageSrc": "https:\/\/images.onefootball.com\/players\/5099.jpg"
+                        }
+                    }
+                }
+            }, {
+                "index": 6,
+                "indexOld": 6,
+                "indexHome": 6,
+                "indexAway": 10,
+                "indexChange": "",
+                "type": 0,
+                "team": {
+                    "id": "202",
+                    "optaId": "6",
+                    "name": "Tottenham",
+                    "teamStats": {
+                        "played": 10,
+                        "playedHome": 5,
+                        "playedAway": 5,
+                        "diff": 8,
+                        "diffHome": 4,
+                        "diffAway": 4,
+                        "goalsShot": 16,
+                        "goalsShotHome": 7,
+                        "goalsShotAway": 9,
+                        "goalsGot": 8,
+                        "goalsGotHome": 3,
+                        "goalsGotAway": 5,
+                        "points": 17,
+                        "pointsHome": 9,
+                        "pointsAway": 8,
+                        "won": 4,
+                        "wonHome": 2,
+                        "wonAway": 2,
+                        "drawn": 5,
+                        "drawnHome": 3,
+                        "drawnAway": 2,
+                        "lost": 1,
+                        "lostHome": 0,
+                        "lostAway": 1,
+                        "yellowCards": 23,
+                        "redCards": 0,
+                        "topScorer": {
+                            "id": "3148",
+                            "stat": "4",
+                            "ranking": "18",
+                            "name": "Harry Kane",
+                            "imageSrc": "https:\/\/images.onefootball.com\/players\/3148.jpg"
+                        }
+                    }
+                }
+            }, {
+                "index": 7,
+                "indexOld": 8,
+                "indexHome": 4,
+                "indexAway": 13,
+                "indexChange": "up",
+                "type": 0,
+                "team": {
+                    "id": "615",
+                    "optaId": "20",
+                    "name": "Southampton",
+                    "teamStats": {
+                        "played": 11,
+                        "playedHome": 6,
+                        "playedAway": 5,
+                        "diff": 5,
+                        "diffHome": 3,
+                        "diffAway": 2,
+                        "goalsShot": 18,
+                        "goalsShotHome": 12,
+                        "goalsShotAway": 6,
+                        "goalsGot": 13,
+                        "goalsGotHome": 9,
+                        "goalsGotAway": 4,
+                        "points": 17,
+                        "pointsHome": 10,
+                        "pointsAway": 7,
+                        "won": 4,
+                        "wonHome": 3,
+                        "wonAway": 1,
+                        "drawn": 5,
+                        "drawnHome": 1,
+                        "drawnAway": 4,
+                        "lost": 2,
+                        "lostHome": 2,
+                        "lostAway": 0,
+                        "yellowCards": 23,
+                        "redCards": 0,
+                        "topScorer": {
+                            "id": "114",
+                            "stat": "6",
+                            "ranking": "7",
+                            "name": "Graziano Pell\u00e8",
+                            "imageSrc": "https:\/\/images.onefootball.com\/player\/61\/612bd35e3debaa16bf26bb02e9be98c2.jpg"
+                        }
+                    }
+                }
+            }, {
+                "index": 8,
+                "indexOld": 9,
+                "indexHome": 8,
+                "indexAway": 8,
+                "indexChange": "up",
+                "type": 0,
+                "team": {
+                    "id": "18",
+                    "optaId": "14",
+                    "name": "Liverpool",
+                    "teamStats": {
+                        "played": 11,
+                        "playedHome": 5,
+                        "playedAway": 6,
+                        "diff": 0,
+                        "diffHome": -1,
+                        "diffAway": 1,
+                        "goalsShot": 12,
+                        "goalsShotHome": 6,
+                        "goalsShotAway": 6,
+                        "goalsGot": 12,
+                        "goalsGotHome": 7,
+                        "goalsGotAway": 5,
+                        "points": 17,
+                        "pointsHome": 8,
+                        "pointsAway": 9,
+                        "won": 4,
+                        "wonHome": 2,
+                        "wonAway": 2,
+                        "drawn": 5,
+                        "drawnHome": 2,
+                        "drawnAway": 3,
+                        "lost": 2,
+                        "lostHome": 1,
+                        "lostAway": 1,
+                        "yellowCards": 23,
+                        "redCards": 0,
+                        "topScorer": {
+                            "id": "14725",
+                            "stat": "4",
+                            "ranking": "14",
+                            "name": "Christian Benteke",
+                            "imageSrc": "https:\/\/images.onefootball.com\/players\/14725.jpg"
+                        }
+                    }
+                }
+            }, {
+                "index": 9,
+                "indexOld": 11,
+                "indexHome": 7,
+                "indexAway": 11,
+                "indexChange": "up",
+                "type": 0,
+                "team": {
+                    "id": "197",
+                    "optaId": "11",
+                    "name": "Everton",
+                    "teamStats": {
+                        "played": 11,
+                        "playedHome": 6,
+                        "playedAway": 5,
+                        "diff": 4,
+                        "diffHome": 1,
+                        "diffAway": 3,
+                        "goalsShot": 19,
+                        "goalsShotHome": 12,
+                        "goalsShotAway": 7,
+                        "goalsGot": 15,
+                        "goalsGotHome": 11,
+                        "goalsGotAway": 4,
+                        "points": 16,
+                        "pointsHome": 8,
+                        "pointsAway": 8,
+                        "won": 4,
+                        "wonHome": 2,
+                        "wonAway": 2,
+                        "drawn": 4,
+                        "drawnHome": 2,
+                        "drawnAway": 2,
+                        "lost": 3,
+                        "lostHome": 2,
+                        "lostAway": 1,
+                        "yellowCards": 23,
+                        "redCards": 0,
+                        "topScorer": {
+                            "id": "7757",
+                            "stat": "6",
+                            "ranking": "6",
+                            "name": "Romelu Lukaku",
+                            "imageSrc": "https:\/\/images.onefootball.com\/players\/7757.jpg"
+                        }
+                    }
+                }
+            }, {
+                "index": 10,
+                "indexOld": 7,
+                "indexHome": 13,
+                "indexAway": 7,
+                "indexChange": "down",
+                "type": 0,
+                "team": {
+                    "id": "567",
+                    "optaId": "31",
+                    "name": "Crystal Palace",
+                    "teamStats": {
+                        "played": 11,
+                        "playedHome": 6,
+                        "playedAway": 5,
+                        "diff": 1,
+                        "diffHome": -1,
+                        "diffAway": 2,
+                        "goalsShot": 12,
+                        "goalsShotHome": 6,
+                        "goalsShotAway": 6,
+                        "goalsGot": 11,
+                        "goalsGotHome": 7,
+                        "goalsGotAway": 4,
+                        "points": 16,
+                        "pointsHome": 7,
+                        "pointsAway": 9,
+                        "won": 5,
+                        "wonHome": 2,
+                        "wonAway": 3,
+                        "drawn": 1,
+                        "drawnHome": 1,
+                        "drawnAway": 0,
+                        "lost": 5,
+                        "lostHome": 3,
+                        "lostAway": 2,
+                        "yellowCards": 23,
+                        "redCards": 0,
+                        "topScorer": {
+                            "id": "4855",
+                            "stat": "4",
+                            "ranking": "15",
+                            "name": "Yohan Cabaye",
+                            "imageSrc": "https:\/\/images.onefootball.com\/players\/4855.jpg"
+                        }
+                    }
+                }
+            }, {
+                "index": 11,
+                "indexOld": 13,
+                "indexHome": 10,
+                "indexAway": 12,
+                "indexChange": "up",
+                "type": 0,
+                "team": {
+                    "id": "580",
+                    "optaId": "57",
+                    "name": "Watford",
+                    "teamStats": {
+                        "played": 11,
+                        "playedHome": 6,
+                        "playedAway": 5,
+                        "diff": 0,
+                        "diffHome": -1,
+                        "diffAway": 1,
+                        "goalsShot": 10,
+                        "goalsShotHome": 3,
+                        "goalsShotAway": 7,
+                        "goalsGot": 10,
+                        "goalsGotHome": 4,
+                        "goalsGotAway": 6,
+                        "points": 16,
+                        "pointsHome": 8,
+                        "pointsAway": 8,
+                        "won": 4,
+                        "wonHome": 2,
+                        "wonAway": 2,
+                        "drawn": 4,
+                        "drawnHome": 2,
+                        "drawnAway": 2,
+                        "lost": 3,
+                        "lostHome": 2,
+                        "lostAway": 1,
+                        "yellowCards": 23,
+                        "redCards": 0,
+                        "topScorer": {
+                            "id": "6301",
+                            "stat": "7",
+                            "ranking": "2",
+                            "name": "Odion Ighalo",
+                            "imageSrc": "https:\/\/images.onefootball.com\/default\/default_player.png"
+                        }
+                    }
+                }
+            }, {
+                "index": 12,
+                "indexOld": 10,
+                "indexHome": 19,
+                "indexAway": 6,
+                "indexChange": "down",
+                "type": 0,
+                "team": {
+                    "id": "196",
+                    "optaId": "35",
+                    "name": "West Brom",
+                    "teamStats": {
+                        "played": 11,
+                        "playedHome": 6,
+                        "playedAway": 5,
+                        "diff": -4,
+                        "diffHome": -5,
+                        "diffAway": 1,
+                        "goalsShot": 10,
+                        "goalsShotHome": 7,
+                        "goalsShotAway": 3,
+                        "goalsGot": 14,
+                        "goalsGotHome": 12,
+                        "goalsGotAway": 2,
+                        "points": 14,
+                        "pointsHome": 4,
+                        "pointsAway": 10,
+                        "won": 4,
+                        "wonHome": 1,
+                        "wonAway": 3,
+                        "drawn": 2,
+                        "drawnHome": 1,
+                        "drawnAway": 1,
+                        "lost": 5,
+                        "lostHome": 4,
+                        "lostAway": 1,
+                        "yellowCards": 23,
+                        "redCards": 0,
+                        "topScorer": {
+                            "id": "31254",
+                            "stat": "3",
+                            "ranking": "22",
+                            "name": "Saido Berahino",
+                            "imageSrc": "https:\/\/images.onefootball.com\/players\/31254.jpg"
+                        }
+                    }
+                }
+            }, {
+                "index": 13,
+                "indexOld": 12,
+                "indexHome": 9,
+                "indexAway": 14,
+                "indexChange": "down",
+                "type": 0,
+                "team": {
+                    "id": "576",
+                    "optaId": "80",
+                    "name": "Swansea City",
+                    "teamStats": {
+                        "played": 11,
+                        "playedHome": 6,
+                        "playedAway": 5,
+                        "diff": -3,
+                        "diffHome": -1,
+                        "diffAway": -2,
+                        "goalsShot": 12,
+                        "goalsShotHome": 6,
+                        "goalsShotAway": 6,
+                        "goalsGot": 15,
+                        "goalsGotHome": 7,
+                        "goalsGotAway": 8,
+                        "points": 13,
+                        "pointsHome": 8,
+                        "pointsAway": 5,
+                        "won": 3,
+                        "wonHome": 2,
+                        "wonAway": 1,
+                        "drawn": 4,
+                        "drawnHome": 2,
+                        "drawnAway": 2,
+                        "lost": 4,
+                        "lostHome": 2,
+                        "lostAway": 2,
+                        "yellowCards": 23,
+                        "redCards": 0,
+                        "topScorer": {
+                            "id": "1282",
+                            "stat": "5",
+                            "ranking": "10",
+                            "name": "Andre Ayew",
+                            "imageSrc": "https:\/\/images.onefootball.com\/players\/1282.jpg"
+                        }
+                    }
+                }
+            }, {
+                "index": 14,
+                "indexOld": 14,
+                "indexHome": 18,
+                "indexAway": 9,
+                "indexChange": "",
+                "type": 0,
+                "team": {
+                    "id": "201",
+                    "optaId": "110",
+                    "name": "Stoke City",
+                    "teamStats": {
+                        "played": 11,
+                        "playedHome": 5,
+                        "playedAway": 6,
+                        "diff": -3,
+                        "diffHome": -3,
+                        "diffAway": 0,
+                        "goalsShot": 9,
+                        "goalsShotHome": 4,
+                        "goalsShotAway": 5,
+                        "goalsGot": 12,
+                        "goalsGotHome": 7,
+                        "goalsGotAway": 5,
+                        "points": 13,
+                        "pointsHome": 4,
+                        "pointsAway": 9,
+                        "won": 3,
+                        "wonHome": 1,
+                        "wonAway": 2,
+                        "drawn": 4,
+                        "drawnHome": 1,
+                        "drawnAway": 3,
+                        "lost": 4,
+                        "lostHome": 3,
+                        "lostAway": 1,
+                        "yellowCards": 23,
+                        "redCards": 0,
+                        "topScorer": {
+                            "id": "670",
+                            "stat": "3",
+                            "ranking": "26",
+                            "name": "Mame Biram Diouf",
+                            "imageSrc": "https:\/\/images.onefootball.com\/players\/670.jpg"
+                        }
+                    }
+                }
+            }, {
+                "index": 15,
+                "indexOld": 15,
+                "indexHome": 12,
+                "indexAway": 16,
+                "indexChange": "",
+                "type": 0,
+                "team": {
+                    "id": "9",
+                    "optaId": "8",
+                    "name": "Chelsea",
+                    "teamStats": {
+                        "played": 11,
+                        "playedHome": 6,
+                        "playedAway": 5,
+                        "diff": -6,
+                        "diffHome": -1,
+                        "diffAway": -5,
+                        "goalsShot": 16,
+                        "goalsShotHome": 9,
+                        "goalsShotAway": 7,
+                        "goalsGot": 22,
+                        "goalsGotHome": 10,
+                        "goalsGotAway": 12,
+                        "points": 11,
+                        "pointsHome": 7,
+                        "pointsAway": 4,
+                        "won": 3,
+                        "wonHome": 2,
+                        "wonAway": 1,
+                        "drawn": 2,
+                        "drawnHome": 1,
+                        "drawnAway": 1,
+                        "lost": 6,
+                        "lostHome": 3,
+                        "lostAway": 3,
+                        "yellowCards": 23,
+                        "redCards": 0,
+                        "topScorer": []
+                    }
+                }
+            }, {
+                "index": 16,
+                "indexOld": 16,
+                "indexHome": 17,
+                "indexAway": 15,
+                "indexChange": "",
+                "type": 0,
+                "team": {
+                    "id": "575",
+                    "optaId": "45",
+                    "name": "Norwich City",
+                    "teamStats": {
+                        "played": 11,
+                        "playedHome": 5,
+                        "playedAway": 6,
+                        "diff": -8,
+                        "diffHome": -2,
+                        "diffAway": -6,
+                        "goalsShot": 15,
+                        "goalsShotHome": 6,
+                        "goalsShotAway": 9,
+                        "goalsGot": 23,
+                        "goalsGotHome": 8,
+                        "goalsGotAway": 15,
+                        "points": 9,
+                        "pointsHome": 4,
+                        "pointsAway": 5,
+                        "won": 2,
+                        "wonHome": 1,
+                        "wonAway": 1,
+                        "drawn": 3,
+                        "drawnHome": 1,
+                        "drawnAway": 2,
+                        "lost": 6,
+                        "lostHome": 3,
+                        "lostAway": 3,
+                        "yellowCards": 23,
+                        "redCards": 0,
+                        "topScorer": {
+                            "id": "2887",
+                            "stat": "4",
+                            "ranking": "19",
+                            "name": "Nathan Redmond",
+                            "imageSrc": "https:\/\/images.onefootball.com\/default\/default_player.png"
+                        }
+                    }
+                }
+            }, {
+                "index": 17,
+                "indexOld": 17,
+                "indexHome": 16,
+                "indexAway": 18,
+                "indexChange": "",
+                "type": 0,
+                "team": {
+                    "id": "622",
+                    "optaId": "91",
+                    "name": "Bournemouth",
+                    "teamStats": {
+                        "played": 11,
+                        "playedHome": 5,
+                        "playedAway": 6,
+                        "diff": -12,
+                        "diffHome": -3,
+                        "diffAway": -9,
+                        "goalsShot": 12,
+                        "goalsShotHome": 5,
+                        "goalsShotAway": 7,
+                        "goalsGot": 24,
+                        "goalsGotHome": 8,
+                        "goalsGotAway": 16,
+                        "points": 8,
+                        "pointsHome": 5,
+                        "pointsAway": 3,
+                        "won": 2,
+                        "wonHome": 1,
+                        "wonAway": 1,
+                        "drawn": 2,
+                        "drawnHome": 2,
+                        "drawnAway": 0,
+                        "lost": 7,
+                        "lostHome": 2,
+                        "lostAway": 5,
+                        "yellowCards": 23,
+                        "redCards": 0,
+                        "topScorer": {
+                            "id": "11668",
+                            "stat": "5",
+                            "ranking": "13",
+                            "name": "Callum Wilson",
+                            "imageSrc": "https:\/\/images.onefootball.com\/default\/default_player.png"
+                        }
+                    }
+                }
+            }, {
+                "index": 18,
+                "indexOld": 19,
+                "indexHome": 14,
+                "indexAway": 20,
+                "indexChange": "up",
+                "type": 9,
+                "team": {
+                    "id": "207",
+                    "optaId": "4",
+                    "name": "Newcastle",
+                    "teamStats": {
+                        "played": 11,
+                        "playedHome": 6,
+                        "playedAway": 5,
+                        "diff": -10,
+                        "diffHome": 2,
+                        "diffAway": -12,
+                        "goalsShot": 12,
+                        "goalsShotHome": 11,
+                        "goalsShotAway": 1,
+                        "goalsGot": 22,
+                        "goalsGotHome": 9,
+                        "goalsGotAway": 13,
+                        "points": 7,
+                        "pointsHome": 6,
+                        "pointsAway": 1,
+                        "won": 1,
+                        "wonHome": 1,
+                        "wonAway": 0,
+                        "drawn": 4,
+                        "drawnHome": 3,
+                        "drawnAway": 1,
+                        "lost": 6,
+                        "lostHome": 2,
+                        "lostAway": 4,
+                        "yellowCards": 23,
+                        "redCards": 0,
+                        "topScorer": {
+                            "id": "16157",
+                            "stat": "6",
+                            "ranking": "9",
+                            "name": "Georginio Wijnaldum",
+                            "imageSrc": "https:\/\/images.onefootball.com\/players\/16157.jpg"
+                        }
+                    }
+                }
+            }, {
+                "index": 19,
+                "indexOld": 18,
+                "indexHome": 15,
+                "indexAway": 19,
+                "indexChange": "down",
+                "type": 9,
+                "team": {
+                    "id": "208",
+                    "optaId": "56",
+                    "name": "Sunderland",
+                    "teamStats": {
+                        "played": 11,
+                        "playedHome": 5,
+                        "playedAway": 6,
+                        "diff": -12,
+                        "diffHome": 0,
+                        "diffAway": -12,
+                        "goalsShot": 13,
+                        "goalsShotHome": 7,
+                        "goalsShotAway": 6,
+                        "goalsGot": 25,
+                        "goalsGotHome": 7,
+                        "goalsGotAway": 18,
+                        "points": 6,
+                        "pointsHome": 5,
+                        "pointsAway": 1,
+                        "won": 1,
+                        "wonHome": 1,
+                        "wonAway": 0,
+                        "drawn": 3,
+                        "drawnHome": 2,
+                        "drawnAway": 1,
+                        "lost": 7,
+                        "lostHome": 2,
+                        "lostAway": 5,
+                        "yellowCards": 23,
+                        "redCards": 0,
+                        "topScorer": {
+                            "id": "3259",
+                            "stat": "4",
+                            "ranking": "16",
+                            "name": "Steven Fletcher",
+                            "imageSrc": "https:\/\/images.onefootball.com\/players\/3259.jpg"
+                        }
+                    }
+                }
+            }, {
+                "index": 20,
+                "indexOld": 20,
+                "indexHome": 20,
+                "indexAway": 17,
+                "indexChange": "",
+                "type": 9,
+                "team": {
+                    "id": "199",
+                    "optaId": "7",
+                    "name": "Aston Villa",
+                    "teamStats": {
+                        "played": 10,
+                        "playedHome": 5,
+                        "playedAway": 5,
+                        "diff": -8,
+                        "diffHome": -4,
+                        "diffAway": -4,
+                        "goalsShot": 9,
+                        "goalsShotHome": 3,
+                        "goalsShotAway": 6,
+                        "goalsGot": 17,
+                        "goalsGotHome": 7,
+                        "goalsGotAway": 10,
+                        "points": 4,
+                        "pointsHome": 1,
+                        "pointsAway": 3,
+                        "won": 1,
+                        "wonHome": 0,
+                        "wonAway": 1,
+                        "drawn": 1,
+                        "drawnHome": 1,
+                        "drawnAway": 0,
+                        "lost": 8,
+                        "lostHome": 4,
+                        "lostAway": 4,
+                        "yellowCards": 23,
+                        "redCards": 0,
+                        "topScorer": {
+                            "id": "12901",
+                            "stat": "3",
+                            "ranking": "27",
+                            "name": "Rudy Gestede",
+                            "imageSrc": "https:\/\/images.onefootball.com\/default\/default_player.png"
+                        }
+                    }
+                }
+            }]
+        }]
+    },
+    "message": "Team Season Stats Feed successfully generated. Api Version: 1"
+}

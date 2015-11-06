@@ -1,0 +1,14 @@
+<div ng-controller="MainCtrl as vm" class="row">
+    <!-- loop through teams -->
+    <div class="col-sm-6" data-ng-repeat="team in vm.teams">
+        <div class="panel panel-primary">
+            <div class="panel-heading">
+               <h4 class="panel-title">{{team.teamName}}</h4>
+            </div>
+            <!-- loop through charts per team -->
+            <div data-ng-repeat="chart in team.charts" class="panel-body">
+                <highchart config="chart"></highchart>
+            </div>
+        </div>
+    </div>
+</div>
