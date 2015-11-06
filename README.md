@@ -1,12 +1,7 @@
 # team-dashboard
 
-This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
-version 0.12.1.
+It creates charts dinamically for football teams.
 
-## Build & development
-
-Run `grunt` for building and `grunt serve` for preview.
-
-## Testing
-
-Running `grunt test` will run the unit tests with karma.
+# Build & development
+Run `npm install && bower install`.
+Then `grunt` for building and `grunt serve` for preview.
