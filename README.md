@@ -1,5 +1,5 @@
-# team-dashboard
-A football team dashboard created dinamically.
+# team dashboard
+A football dashboard created dinamically.
 
 # Live Demo
 https://team-dash.herokuapp.com/
