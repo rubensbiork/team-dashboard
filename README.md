@@ -2,7 +2,7 @@
 A football dashboard created dinamically.
 
 # Live Demo
-https://team-dash.herokuapp.com/
+http://team-dashboard.bitballoon.com/
 
 # How to run it
 Run `npm install && bower install`.
